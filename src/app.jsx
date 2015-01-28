@@ -14,13 +14,13 @@ var HomePage = require('./pages/HomePage');
 
 var menuItems = [
   // inject:menuitems
-  { payload: 'home', text: 'Lab 3 Challenge' },
+  { payload: 'home', text: 'My App' },
   // endinject
 ];
 
 var titles = {
   // inject:titles
-  '/home': 'Lab 3 Challenge',
+  '/home': 'My App',
   // endinject
 };
 
